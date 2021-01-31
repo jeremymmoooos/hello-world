@@ -1,2 +1,2 @@
 # hello-world
-just a stupid repostry
+just a stupid repository
